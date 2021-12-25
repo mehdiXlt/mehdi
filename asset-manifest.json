@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.955de146.chunk.css",
-    "main.js": "/static/js/main.0de72e44.chunk.js",
-    "main.js.map": "/static/js/main.0de72e44.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4ab6fa24.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4ab6fa24.js.map",
-    "static/js/2.90dd06ed.chunk.js": "/static/js/2.90dd06ed.chunk.js",
-    "static/js/2.90dd06ed.chunk.js.map": "/static/js/2.90dd06ed.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.955de146.chunk.css.map": "/static/css/main.955de146.chunk.css.map",
-    "static/js/2.90dd06ed.chunk.js.LICENSE.txt": "/static/js/2.90dd06ed.chunk.js.LICENSE.txt",
-    "static/media/boutique.275bff90.png": "/static/media/boutique.275bff90.png",
-    "static/media/portfolio.cb45ddf8.png": "/static/media/portfolio.cb45ddf8.png",
-    "static/media/prog.67763b69.jpg": "/static/media/prog.67763b69.jpg",
-    "static/media/propertee.3b504e51.png": "/static/media/propertee.3b504e51.png"
+    "main.css": "/mehdi/static/css/main.a4664a30.chunk.css",
+    "main.js": "/mehdi/static/js/main.ba1dc709.chunk.js",
+    "main.js.map": "/mehdi/static/js/main.ba1dc709.chunk.js.map",
+    "runtime-main.js": "/mehdi/static/js/runtime-main.bc6d7a16.js",
+    "runtime-main.js.map": "/mehdi/static/js/runtime-main.bc6d7a16.js.map",
+    "static/js/2.e2cea34f.chunk.js": "/mehdi/static/js/2.e2cea34f.chunk.js",
+    "static/js/2.e2cea34f.chunk.js.map": "/mehdi/static/js/2.e2cea34f.chunk.js.map",
+    "index.html": "/mehdi/index.html",
+    "static/css/main.a4664a30.chunk.css.map": "/mehdi/static/css/main.a4664a30.chunk.css.map",
+    "static/js/2.e2cea34f.chunk.js.LICENSE.txt": "/mehdi/static/js/2.e2cea34f.chunk.js.LICENSE.txt",
+    "static/media/boutique.275bff90.png": "/mehdi/static/media/boutique.275bff90.png",
+    "static/media/portfolio.cb45ddf8.png": "/mehdi/static/media/portfolio.cb45ddf8.png",
+    "static/media/prog.67763b69.jpg": "/mehdi/static/media/prog.67763b69.jpg",
+    "static/media/propertee.3b504e51.png": "/mehdi/static/media/propertee.3b504e51.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ab6fa24.js",
-    "static/js/2.90dd06ed.chunk.js",
-    "static/css/main.955de146.chunk.css",
-    "static/js/main.0de72e44.chunk.js"
+    "static/js/runtime-main.bc6d7a16.js",
+    "static/js/2.e2cea34f.chunk.js",
+    "static/css/main.a4664a30.chunk.css",
+    "static/js/main.ba1dc709.chunk.js"
   ]
 }
