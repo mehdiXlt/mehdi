@@ -1,0 +1,14 @@
+.animation {
+  position: relative;
+}
+
+.cube {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 20px;
+  background-color: var(--first-color);
+  position: absolute;
+  top: 70%;
+  left: 70%;
+  opacity: 0.8;
+}
